@@ -1,6 +1,6 @@
 // 🔥 Create Server.js
 
-const Express = require("express");
+const Express = require("express") // 🍅 If you want to Install Express, type in Terminal: npm i express -S
 
 const App = Express();
 
