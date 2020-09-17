@@ -16,4 +16,8 @@ client.on("message", (Message) => {
   };
 });
 
+// 🌀 Finally we will Log in with our BOT!
+
+client.login("TOKEN");
+
 // 💎 All More Information is on https://discord.js.org/
